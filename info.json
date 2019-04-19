@@ -1,0 +1,17 @@
+{
+    "id":10000,
+	"title":"Shadowsocks管理器",
+	"tip":"lib",
+	"name":"ss",
+	"type":"扩展",
+	"ps":"宝塔Linux面板shadowsocks可视化管理插件",
+	"versions":"1.0",
+	"shell":"ss.sh",
+	"checks":"/www/server/panel/plugin/ss",
+	"author":"姬长信",
+	"home":"https://github.com/insoxin/btpanel-ss",
+	"date":"2019-04-19",
+	"default":false,
+	"display":1,
+	"api":true
+}

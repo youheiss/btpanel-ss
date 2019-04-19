@@ -23,6 +23,11 @@
 
 ![](https://i.loli.net/2019/04/19/5cb9df2230a35.png)
 ![](https://i.loli.net/2019/04/19/5cb9df6d5b2fd.png)
+![](https://i.loli.net/2019/04/19/5cb9e1dda576b.png)
+### 查看端口情况
+
+netstat  -antu 
+
 
 ### 致谢列表
 https://blog.isoyu.com/archives/bt-ss-udp53.html

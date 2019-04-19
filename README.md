@@ -8,12 +8,13 @@
 <p>操作系统：Centos/Ubuntu</p>
 
 <h2>安装</h2>
-git clone https://github.com/insoxin/btpanel-ss
-cd btpanel-ss
-bash install.sh install
+<p>git clone https://github.com/insoxin/btpanel-ss</p>
+<p>d btpanel-ss</p>
+<p>bash install.sh install</p>
 
 <h2>卸载</h2>
 <p>先在可视化界面中删除所有用户端口,再执行以下命令</p>
+<p>cd btpanel-ss</p>
 <p>bash install.sh uninstall</p>
 
 <h2>使用</h2>

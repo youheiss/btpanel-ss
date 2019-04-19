@@ -21,4 +21,12 @@
 <p>直接登陆宝塔Linux面板 >> 打开软件列表页面 >> 转到列表最后一页即可看到新安装的shadowsocks插件</p>
 
 
+![](https://i.loli.net/2019/04/19/5cb9df2230a35.png)
+![](https://i.loli.net/2019/04/19/5cb9df6d5b2fd.png)
 
+### 致谢列表
+https://blog.isoyu.com/archives/bt-ss-udp53.html
+https://www.bennythink.com/udp53.html
+https://github.com/BennyThink/UDP53-Filter-Type
+https://github.com/shadowsocks
+https://github.com/Liang2580/btpanel-ss
